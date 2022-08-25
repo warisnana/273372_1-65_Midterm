@@ -19,5 +19,6 @@ module.exports ={
     index (req,res){
         res.send('เรียกข้อมูลผู้ใช้ทั้งหมด')
     }
+    
 
 }

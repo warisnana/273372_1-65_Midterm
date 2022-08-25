@@ -5,6 +5,8 @@ module.exports ={
         console.log('input = '+ input)
         output = input + 1
         res.send(output.toString())
-    }
+    },
+    
+    
 
 }

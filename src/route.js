@@ -13,5 +13,8 @@ module.exports = (app) => {
     app.get('/users', UserController.index)
 
     app.post('/add1', Midterm.add1)
+    
+
+    
 
 }
